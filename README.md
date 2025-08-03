@@ -1,7 +1,7 @@
 # devlicious-buttons
 A curated collection of clean and stylish HTML/CSS buttons designed for Oracle APEX, forms, and modern web pages — built with focus on interactivity and elegant UI.
 
-## 🚀 How to Use
+## How to Use
 ### Step 1 – Include the CSS file
 Import the CSS file into your Oracle APEX app:
 → Either via Shared Components > CSS,
@@ -17,7 +17,7 @@ Create a new button
 Under the "Appearance" section, select your new custom button template
 Save and run the page
 
-✨ That's it! You now have modern, animated, and responsive buttons in your APEX app.
+That's it! You now have modern, animated, and responsive buttons in your APEX app.
 
 
 ![Button Preview](./preview.png)
