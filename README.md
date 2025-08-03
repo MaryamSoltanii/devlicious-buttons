@@ -11,12 +11,6 @@ or inside the inline CSS section of a specific page.
 Create a button template using the provided HTML structure.
 You can copy the code snippet of any button you like from this repo.
 
-<!-- Example button HTML -->
-<button class="btn btn-create">
-  <span class="btn-label">Create</span>
-  <span class="btn-icon"><i class="fa fa-plus"></i></span>
-</button>
-
 ### Step 3 – Use the Button in Your Page
 Go to your page
 Create a new button
